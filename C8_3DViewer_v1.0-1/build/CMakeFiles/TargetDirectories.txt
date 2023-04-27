@@ -1,0 +1,4 @@
+/mnt/c/Users/maxim/Desktop/LinuxDesktop/SchoolProjects/C/C8_3DViewer_v1.0-1/build/CMakeFiles/3dViewer.dir
+/mnt/c/Users/maxim/Desktop/LinuxDesktop/SchoolProjects/C/C8_3DViewer_v1.0-1/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/maxim/Desktop/LinuxDesktop/SchoolProjects/C/C8_3DViewer_v1.0-1/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/maxim/Desktop/LinuxDesktop/SchoolProjects/C/C8_3DViewer_v1.0-1/build/CMakeFiles/3dViewer_autogen.dir
